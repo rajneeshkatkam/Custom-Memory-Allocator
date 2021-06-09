@@ -1,0 +1,156 @@
+---------------------------------New Trace Results-------------------------
+
+Reading tracefile: traces/binary-bal.rep
+trace  valid  util     ops      secs	  Kops
+ 0       yes   54%   12000  0.151490	    79
+Total          54%   12000  0.151490	    79
+Perf index = 32 (util) + 5 (thru) = 38/100
+
+
+Reading tracefile: traces/binary-bal.rep
+trace  valid  util     ops      secs	  Kops
+ 0       yes   54%   12000  0.147070	    82
+Total          54%   12000  0.147070	    82
+Perf index = 32 (util) + 5 (thru) = 38/100
+
+
+Reading tracefile: traces/binary-bal.rep
+trace  valid  util     ops      secs	  Kops
+ 0       yes   54%   12000  0.145828	    82
+Total          54%   12000  0.145828	    82
+Perf index = 32 (util) + 5 (thru) = 38/100
+
+-------------------------------------------------------------------------
+
+Reading tracefile: traces/cp-decl-bal.rep
+trace  valid  util     ops      secs	  Kops
+ 0       yes   98%    6648  0.010858	   612
+Total          98%    6648  0.010858	   612
+Perf index = 59 (util) + 40 (thru) = 99/100
+
+
+Reading tracefile: traces/cp-decl-bal.rep
+trace  valid  util     ops      secs	  Kops
+ 0       yes   98%    6648  0.011110	   598
+Total          98%    6648  0.011110	   598
+Perf index = 59 (util) + 40 (thru) = 99/100
+
+
+Reading tracefile: traces/cp-decl-bal.rep
+trace  valid  util     ops      secs	  Kops
+ 0       yes   98%    6648  0.011087	   600
+Total          98%    6648  0.011087	   600
+Perf index = 59 (util) + 40 (thru) = 99/100
+
+-------------------------------------------------------------------------
+
+Reading tracefile: traces/random-bal.rep
+trace  valid  util     ops      secs	  Kops
+ 0       yes   90%    4800  0.008424	   570
+Total          90%    4800  0.008424	   570
+Perf index = 54 (util) + 38 (thru) = 92/100
+
+
+Reading tracefile: traces/random-bal.rep
+trace  valid  util     ops      secs	  Kops
+ 0       yes   90%    4800  0.008175	   587
+Total          90%    4800  0.008175	   587
+Perf index = 54 (util) + 39 (thru) = 93/100
+
+
+Reading tracefile: traces/random-bal.rep
+trace  valid  util     ops      secs	  Kops
+ 0       yes   90%    4800  0.008222	   584
+Total          90%    4800  0.008222	   584
+Perf index = 54 (util) + 39 (thru) = 93/100
+
+-------------------------------------------------------------------------
+
+Reading tracefile: traces/realloc-bal.rep
+trace  valid  util     ops      secs	  Kops
+ 0       yes   73%   14401  0.000376	 38270
+Total          73%   14401  0.000376	 38270
+Perf index = 44 (util) + 40 (thru) = 84/100
+
+
+Reading tracefile: traces/realloc-bal.rep
+trace  valid  util     ops      secs	  Kops
+ 0       yes   73%   14401  0.000302	 47733
+Total          73%   14401  0.000302	 47733
+Perf index = 44 (util) + 40 (thru) = 84/100
+
+
+Reading tracefile: traces/realloc-bal.rep
+trace  valid  util     ops      secs	  Kops
+ 0       yes   73%   14401  0.000299	 48100
+Total          73%   14401  0.000299	 48100
+Perf index = 44 (util) + 40 (thru) = 84/100
+
+-------------------------------------------------------------------------
+
+Reading tracefile: traces/short1-bal.rep
+trace  valid  util     ops      secs	  Kops
+ 0       yes   98%      12  0.000000	 40000
+Total          98%      12  0.000000	 40000
+Perf index = 59 (util) + 40 (thru) = 99/100
+
+
+Reading tracefile: traces/short1-bal.rep
+trace  valid  util     ops      secs	  Kops
+ 0       yes   98%      12  0.000000	120000
+Total          98%      12  0.000000	120000
+Perf index = 59 (util) + 40 (thru) = 99/100
+
+
+Reading tracefile: traces/short1-bal.rep
+trace  valid  util     ops      secs	  Kops
+ 0       yes   98%      12  0.000000	 40000
+Total          98%      12  0.000000	 40000
+Perf index = 59 (util) + 40 (thru) = 99/100
+
+-------------------------------------------------------------------------
+
+Reading tracefile: traces/short2-bal.rep
+trace  valid  util     ops      secs	  Kops
+ 0       yes   99%      12  0.000000	 30000
+Total          99%      12  0.000000	 30000
+Perf index = 59 (util) + 40 (thru) = 99/100
+
+
+Reading tracefile: traces/short2-bal.rep
+trace  valid  util     ops      secs	  Kops
+ 0       yes   99%      12  0.000000	 60000
+Total          99%      12  0.000000	 60000
+Perf index = 59 (util) + 40 (thru) = 99/100
+
+
+Reading tracefile: traces/short2-bal.rep
+trace  valid  util     ops      secs	  Kops
+ 0       yes   99%      12  0.000000	 60000
+Total          99%      12  0.000000	 60000
+Perf index = 59 (util) + 40 (thru) = 99/100
+
+-------------------------------------------------------------------------
+
+Reading tracefile: traces/short3-bal.rep
+trace  valid  util     ops      secs	  Kops
+ 0       yes   99%      10  0.000000	100000
+Total          99%      10  0.000000	100000
+Perf index = 59 (util) + 40 (thru) = 99/100
+
+
+Reading tracefile: traces/short3-bal.rep
+trace  valid  util     ops      secs	  Kops
+ 0       yes   99%      10  0.000000	100000
+Total          99%      10  0.000000	100000
+Perf index = 59 (util) + 40 (thru) = 99/100
+
+
+Reading tracefile: traces/short3-bal.rep
+trace  valid  util     ops      secs	  Kops
+ 0       yes   99%      10  0.000000	 33333
+Total          99%      10  0.000000	 33333
+Perf index = 59 (util) + 40 (thru) = 99/100
+
+-------------------------------------------------------------------------
+
